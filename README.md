@@ -2,9 +2,10 @@
 Static Project for CAPP 30239
 
 Name: Akshar Niranjan Katariya
+
 Note: I am submitting this a day after the deadline as I joined the course late and received permission from professor to get a 24 hour extension on this. Thank you.
 
-Proposal 1:
+## Proposal 1:
 
 Description of the subject area of choice: Aid: Many developing countries face immediate, pressing challenges such as poverty alleviation, infrastructure development, healthcare, education. However, international organizations, like the World Bank, International Monetary Fund (IMF), or United Nations (UN), often prioritize broader, global agendas that don’t always align perfectly with the urgent local needs. For example, while environmental sustainability or governance reforms are important globally, a country in crisis might prioritize economic recovery, food security, or health over climate change mitigation efforts
 
@@ -14,7 +15,7 @@ Description: This dataset contains responses from nearly 7,000 leaders working i
 
 Size of data: Approximately 6 CSV files with at about ~7000 rows in the largest dataset containing global, regional, and sectoral aggregates of development partner performance, with hundreds of rows (depending on the aggregation level) and over 20 columns detailing different dimensions like influence and helpfulness​
 
-Proposal 2:
+## Proposal 2:
 
 Description of the subject area of choice: Climate Change: Emissions from food and packaging are significant contributors to global greenhouse gas (GHG) emissions, exacerbating climate change. These emissions arise at various stages of the food production and consumption chain, from agricultural practices to packaging and waste management
 
