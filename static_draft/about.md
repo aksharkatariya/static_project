@@ -7,10 +7,10 @@ My current goal is to create a set of visualizations that give the reader a sens
 and then dive deep into exploriong some trends that are important for the climate change discourse. It has largely remained  the same since the proposal. 
 
 ## Are there data challenges you are facing? Are you currently depending on mock data?
-I I am not operating on moack data, but there are a few challenges. 
-- - I feel like I am struggling with manipulating the data for the exact chart I need. For example, with the lollipop chart, I wanted to convey the global change over the last few years, but it is not striking enough to convery that
-- - My data needs to be appended with other relevant data such as population, democracy status, to create more nuanced and interesting charts
-  - I am unable to manipulate the axes titles when I have used faceting
+I am not operating on mock data, but there are a few challenges. 
+-  I feel like I am struggling with manipulating the data for the exact chart I need. For example, with the lollipop chart, I wanted to convey the global change over the last few years, but it is not striking enough to convery that
+-  My data needs to be appended with other relevant data such as population, democracy status, to create more nuanced and interesting charts
+- I am unable to manipulate the axes titles when I have used faceting
 
 ## Describe each of the provided images with 2-3 sentences to give the context and how it relates to your goal.
 present in the jupyter notebook
